@@ -5,7 +5,7 @@
 * Backend Enginner in ConnexioH
 
 ### 🌱 I’m currently learning ...
-* PS ([codeforces](https://codeforces.com/profile/indosm) 1.4k++)
+* PS ([codeforces](https://codeforces.com/profile/indosm))
 * Personal Privacy
 * Information Security
 
